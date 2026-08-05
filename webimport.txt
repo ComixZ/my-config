@@ -1,7 +1,7 @@
 // -1 , 0 , 1
 web_import_status = 1
 // 0 , 1
-video01: test 55555 , 0 , https://media.clip.place/streaming-playlists/hls/e5c9fdc2-ad9d-4bf5-b70f-6ef0a231faae/7587e246-79ab-4830-b923-6b8f636ce3ff-1080.m3u8 ;
+video01: "test 55555" ; "" ; ""; 0 ; https://media.clip.place/streaming-playlists/hls/e5c9fdc2-ad9d-4bf5-b70f-6ef0a231faae/7587e246-79ab-4830-b923-6b8f636ce3ff-1080.m3u8 ;
 video02: "Das hier ist ein langer text" ; "This is a long text" ; "Ceci est un texte long" ; 1 ; https://media.clip.place/streaming-playlists/hls/e5c9fdc2-ad9d-4bf5-b70f-6ef0a231faae/7587e246-79ab-4830-b923-6b8f636ce3ff-1080.m3u8 ;
-video03: test 4444 , 0 , https://media.clip.place/streaming-playlists/hls/e5c9fdc2-ad9d-4bf5-b70f-6ef0a231faae/7587e246-79ab-4830-b923-6b8f636ce3ff-1080.m3u8 ;
-video04: test 55555 , 0 , https://media.clip.place/streaming-playlists/hls/e5c9fdc2-ad9d-4bf5-b70f-6ef0a231faae/7587e246-79ab-4830-b923-6b8f636ce3ff-1080.m3u8 ;
+video03: "test 4444" ; "" ; "" ; 0 ; https://media.clip.place/streaming-playlists/hls/e5c9fdc2-ad9d-4bf5-b70f-6ef0a231faae/7587e246-79ab-4830-b923-6b8f636ce3ff-1080.m3u8 ;
+video04: "test 55555" ; "" ; "" ; 0 ; https://media.clip.place/streaming-playlists/hls/e5c9fdc2-ad9d-4bf5-b70f-6ef0a231faae/7587e246-79ab-4830-b923-6b8f636ce3ff-1080.m3u8 ;
