@@ -7,5 +7,5 @@ anleitung_button = 1
 // 0 , 1
 video01: "test 55555" ; "" ; ""; 0 ; https://media.clip.place/streaming-playlists/hls/e5c9fdc2-ad9d-4bf5-b70f-6ef0a231faae/7587e246-79ab-4830-b923-6b8f636ce3ff-1080.m3u8 ;
 video02: "Bilder upscalen" ; "Upscale images" ; "Mise à l'échelle des images" ; 1 ; https://media.clip.place/streaming-playlists/hls/5b91c585-a35b-4c24-80fe-96f721b0d1a9/a5b6356d-12b6-44af-9ae3-79fd584fd015-master.m3u8 ;
-video03: "test 4444" ; "" ; "" ; 0 ; https://media.clip.place/streaming-playlists/hls/e5c9fdc2-ad9d-4bf5-b70f-6ef0a231faae/7587e246-79ab-4830-b923-6b8f636ce3ff-1080.m3u8 ;
+video03: "Wasserzeichen entfernen" ; "Remove watermark" ; "Supprimer les filigranes" ; 1 ; https://media.clip.place/streaming-playlists/hls/8jtoHvTmrop4qpLHNi5SpA/…-master.m3u8 ;
 video04: "test 55555" ; "" ; "" ; 0 ; https://media.clip.place/streaming-playlists/hls/e5c9fdc2-ad9d-4bf5-b70f-6ef0a231faae/7587e246-79ab-4830-b923-6b8f636ce3ff-1080.m3u8 ;
